@@ -11,7 +11,7 @@
 ###  Cómo ejecutar
 1. Instalar `mongosh`: https://www.mongodb.com/try/download/shell
 2. Conectarse a Atlas o local
-3. Ejecutar: `mongosh < mongodb_tarea4.js`
+3. Ejecutar: `mongosh `
 
 ###  Operaciones implementadas
 - Inserción masiva (100 documentos)
